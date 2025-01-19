@@ -1,0 +1,79 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ 'CMD', 'pg_isready', '-U', 'postgres' ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    restart: unless-stopped
+    ports:
+      - '6379:6379'
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: [ 'CMD', 'redis-cli', '--raw', 'incr', 'ping' ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  app:
+    <<: &app
+      image: 'app:${DJANGO_ENV}'
+      container_name: app
+      build:
+        context: .
+        args:
+          DJANGO_ENV: ${DJANGO_ENV}
+      restart: unless-stopped
+      volumes:
+        - ./source:/app/source
+      environment:
+        WEB_API_DOMAIN: ${WEB_API_DOMAIN}
+        SECRET_KEY: ${SECRET_KEY}
+        REDIS_HOST: ${REDIS_HOST}
+        POSTGRES_HOST: ${POSTGRES_HOST}
+        POSTGRES_PORT: ${POSTGRES_PORT}
+        POSTGRES_DB: ${POSTGRES_DB}
+        POSTGRES_USER: ${POSTGRES_USER}
+        POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      depends_on:
+        postgres:
+          condition: service_healthy
+          restart: true
+        redis:
+          condition: service_healthy
+          restart: true
+    ports:
+      - '8000:8000'
+    command: start_app
+    healthcheck:
+      test: curl -f ${WEB_API_DOMAIN}/admin || exit 1
+      interval: 1m
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  celery-beat:
+    <<: *app
+    container_name: celery-beat
+    command: celery --workdir ./source -A base beat -l INFO
+
+
+volumes:
+  postgres-data:
+  redis-data:
