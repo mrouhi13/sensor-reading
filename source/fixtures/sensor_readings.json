@@ -1,0 +1,9002 @@
+[
+  {
+    "model": "sensors.sensorreading",
+    "pk": 1,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:00:00Z",
+      "value": 21.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 2,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:01:00Z",
+      "value": 22.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 3,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:02:00Z",
+      "value": 23.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 4,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:03:00Z",
+      "value": 24.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 5,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:04:00Z",
+      "value": 25.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 6,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:05:00Z",
+      "value": 26.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 7,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:06:00Z",
+      "value": 27.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 8,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:07:00Z",
+      "value": 28.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 9,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:08:00Z",
+      "value": 29.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 10,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:09:00Z",
+      "value": 20.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 11,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:10:00Z",
+      "value": 21.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 12,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:11:00Z",
+      "value": 22.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 13,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:12:00Z",
+      "value": 23.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 14,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:13:00Z",
+      "value": 24.01
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 15,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:14:00Z",
+      "value": 25.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 16,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:15:00Z",
+      "value": 26.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 17,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:16:00Z",
+      "value": 27.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 18,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:17:00Z",
+      "value": 28.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 19,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:18:00Z",
+      "value": 29.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 20,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:19:00Z",
+      "value": 20.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 21,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:20:00Z",
+      "value": 21.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 22,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:21:00Z",
+      "value": 22.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 23,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:22:00Z",
+      "value": 23.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 24,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:23:00Z",
+      "value": 24.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 25,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:24:00Z",
+      "value": 25.02
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 26,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:25:00Z",
+      "value": 26.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 27,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:26:00Z",
+      "value": 27.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 28,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:27:00Z",
+      "value": 28.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 29,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:28:00Z",
+      "value": 29.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 30,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:29:00Z",
+      "value": 20.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 31,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:30:00Z",
+      "value": 21.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 32,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:31:00Z",
+      "value": 22.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 33,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:32:00Z",
+      "value": 23.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 34,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:33:00Z",
+      "value": 24.03
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 35,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:34:00Z",
+      "value": 25.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 36,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:35:00Z",
+      "value": 26.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 37,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:36:00Z",
+      "value": 27.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 38,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:37:00Z",
+      "value": 28.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 39,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:38:00Z",
+      "value": 29.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 40,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:39:00Z",
+      "value": 20.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 41,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:40:00Z",
+      "value": 21.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 42,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:41:00Z",
+      "value": 22.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 43,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:42:00Z",
+      "value": 23.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 44,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:43:00Z",
+      "value": 24.04
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 45,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:44:00Z",
+      "value": 25.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 46,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:45:00Z",
+      "value": 26.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 47,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:46:00Z",
+      "value": 27.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 48,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:47:00Z",
+      "value": 28.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 49,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:48:00Z",
+      "value": 29.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 50,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:49:00Z",
+      "value": 20.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 51,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T00:50:00Z",
+      "value": 21.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 52,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T00:51:00Z",
+      "value": 22.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 53,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T00:52:00Z",
+      "value": 23.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 54,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T00:53:00Z",
+      "value": 24.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 55,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T00:54:00Z",
+      "value": 25.05
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 56,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T00:55:00Z",
+      "value": 26.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 57,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T00:56:00Z",
+      "value": 27.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 58,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T00:57:00Z",
+      "value": 28.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 59,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T00:58:00Z",
+      "value": 29.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 60,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T00:59:00Z",
+      "value": 20.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 61,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:00:00Z",
+      "value": 21.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 62,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:01:00Z",
+      "value": 22.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 63,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:02:00Z",
+      "value": 23.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 64,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:03:00Z",
+      "value": 24.06
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 65,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:04:00Z",
+      "value": 25.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 66,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:05:00Z",
+      "value": 26.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 67,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:06:00Z",
+      "value": 27.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 68,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:07:00Z",
+      "value": 28.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 69,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:08:00Z",
+      "value": 29.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 70,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:09:00Z",
+      "value": 20.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 71,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:10:00Z",
+      "value": 21.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 72,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:11:00Z",
+      "value": 22.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 73,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:12:00Z",
+      "value": 23.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 74,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:13:00Z",
+      "value": 24.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 75,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:14:00Z",
+      "value": 25.07
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 76,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:15:00Z",
+      "value": 26.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 77,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:16:00Z",
+      "value": 27.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 78,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:17:00Z",
+      "value": 28.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 79,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:18:00Z",
+      "value": 29.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 80,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:19:00Z",
+      "value": 20.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 81,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:20:00Z",
+      "value": 21.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 82,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:21:00Z",
+      "value": 22.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 83,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:22:00Z",
+      "value": 23.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 84,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:23:00Z",
+      "value": 24.08
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 85,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:24:00Z",
+      "value": 25.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 86,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:25:00Z",
+      "value": 26.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 87,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:26:00Z",
+      "value": 27.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 88,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:27:00Z",
+      "value": 28.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 89,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:28:00Z",
+      "value": 29.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 90,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:29:00Z",
+      "value": 20.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 91,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:30:00Z",
+      "value": 21.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 92,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:31:00Z",
+      "value": 22.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 93,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:32:00Z",
+      "value": 23.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 94,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:33:00Z",
+      "value": 24.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 95,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:34:00Z",
+      "value": 25.09
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 96,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:35:00Z",
+      "value": 26.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 97,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:36:00Z",
+      "value": 27.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 98,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:37:00Z",
+      "value": 28.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 99,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:38:00Z",
+      "value": 29.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 100,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:39:00Z",
+      "value": 20.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 101,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:40:00Z",
+      "value": 21.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 102,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:41:00Z",
+      "value": 22.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 103,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:42:00Z",
+      "value": 23.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 104,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:43:00Z",
+      "value": 24.1
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 105,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:44:00Z",
+      "value": 25.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 106,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:45:00Z",
+      "value": 26.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 107,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:46:00Z",
+      "value": 27.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 108,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:47:00Z",
+      "value": 28.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 109,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:48:00Z",
+      "value": 29.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 110,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:49:00Z",
+      "value": 20.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 111,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T01:50:00Z",
+      "value": 21.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 112,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T01:51:00Z",
+      "value": 22.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 113,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T01:52:00Z",
+      "value": 23.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 114,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T01:53:00Z",
+      "value": 24.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 115,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T01:54:00Z",
+      "value": 25.11
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 116,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T01:55:00Z",
+      "value": 26.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 117,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T01:56:00Z",
+      "value": 27.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 118,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T01:57:00Z",
+      "value": 28.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 119,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T01:58:00Z",
+      "value": 29.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 120,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T01:59:00Z",
+      "value": 20.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 121,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:00:00Z",
+      "value": 21.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 122,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:01:00Z",
+      "value": 22.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 123,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:02:00Z",
+      "value": 23.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 124,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:03:00Z",
+      "value": 24.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 125,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:04:00Z",
+      "value": 25.12
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 126,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:05:00Z",
+      "value": 26.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 127,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:06:00Z",
+      "value": 27.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 128,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:07:00Z",
+      "value": 28.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 129,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:08:00Z",
+      "value": 29.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 130,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:09:00Z",
+      "value": 20.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 131,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:10:00Z",
+      "value": 21.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 132,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:11:00Z",
+      "value": 22.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 133,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:12:00Z",
+      "value": 23.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 134,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:13:00Z",
+      "value": 24.13
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 135,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:14:00Z",
+      "value": 25.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 136,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:15:00Z",
+      "value": 26.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 137,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:16:00Z",
+      "value": 27.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 138,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:17:00Z",
+      "value": 28.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 139,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:18:00Z",
+      "value": 29.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 140,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:19:00Z",
+      "value": 20.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 141,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:20:00Z",
+      "value": 21.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 142,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:21:00Z",
+      "value": 22.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 143,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:22:00Z",
+      "value": 23.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 144,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:23:00Z",
+      "value": 24.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 145,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:24:00Z",
+      "value": 25.14
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 146,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:25:00Z",
+      "value": 26.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 147,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:26:00Z",
+      "value": 27.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 148,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:27:00Z",
+      "value": 28.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 149,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:28:00Z",
+      "value": 29.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 150,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:29:00Z",
+      "value": 20.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 151,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:30:00Z",
+      "value": 21.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 152,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:31:00Z",
+      "value": 22.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 153,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:32:00Z",
+      "value": 23.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 154,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:33:00Z",
+      "value": 24.15
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 155,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:34:00Z",
+      "value": 25.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 156,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:35:00Z",
+      "value": 26.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 157,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:36:00Z",
+      "value": 27.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 158,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:37:00Z",
+      "value": 28.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 159,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:38:00Z",
+      "value": 29.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 160,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:39:00Z",
+      "value": 20.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 161,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:40:00Z",
+      "value": 21.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 162,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:41:00Z",
+      "value": 22.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 163,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:42:00Z",
+      "value": 23.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 164,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:43:00Z",
+      "value": 24.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 165,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:44:00Z",
+      "value": 25.16
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 166,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:45:00Z",
+      "value": 26.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 167,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:46:00Z",
+      "value": 27.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 168,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:47:00Z",
+      "value": 28.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 169,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:48:00Z",
+      "value": 29.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 170,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:49:00Z",
+      "value": 20.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 171,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T02:50:00Z",
+      "value": 21.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 172,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T02:51:00Z",
+      "value": 22.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 173,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T02:52:00Z",
+      "value": 23.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 174,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T02:53:00Z",
+      "value": 24.17
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 175,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T02:54:00Z",
+      "value": 25.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 176,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T02:55:00Z",
+      "value": 26.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 177,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T02:56:00Z",
+      "value": 27.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 178,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T02:57:00Z",
+      "value": 28.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 179,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T02:58:00Z",
+      "value": 29.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 180,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T02:59:00Z",
+      "value": 20.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 181,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:00:00Z",
+      "value": 21.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 182,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:01:00Z",
+      "value": 22.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 183,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:02:00Z",
+      "value": 23.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 184,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:03:00Z",
+      "value": 24.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 185,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:04:00Z",
+      "value": 25.18
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 186,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:05:00Z",
+      "value": 26.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 187,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:06:00Z",
+      "value": 27.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 188,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:07:00Z",
+      "value": 28.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 189,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:08:00Z",
+      "value": 29.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 190,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:09:00Z",
+      "value": 20.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 191,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:10:00Z",
+      "value": 21.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 192,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:11:00Z",
+      "value": 22.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 193,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:12:00Z",
+      "value": 23.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 194,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:13:00Z",
+      "value": 24.19
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 195,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:14:00Z",
+      "value": 25.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 196,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:15:00Z",
+      "value": 26.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 197,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:16:00Z",
+      "value": 27.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 198,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:17:00Z",
+      "value": 28.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 199,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:18:00Z",
+      "value": 29.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 200,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:19:00Z",
+      "value": 20.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 201,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:20:00Z",
+      "value": 21.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 202,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:21:00Z",
+      "value": 22.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 203,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:22:00Z",
+      "value": 23.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 204,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:23:00Z",
+      "value": 24.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 205,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:24:00Z",
+      "value": 25.2
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 206,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:25:00Z",
+      "value": 26.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 207,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:26:00Z",
+      "value": 27.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 208,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:27:00Z",
+      "value": 28.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 209,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:28:00Z",
+      "value": 29.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 210,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:29:00Z",
+      "value": 20.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 211,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:30:00Z",
+      "value": 21.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 212,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:31:00Z",
+      "value": 22.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 213,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:32:00Z",
+      "value": 23.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 214,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:33:00Z",
+      "value": 24.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 215,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:34:00Z",
+      "value": 25.21
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 216,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:35:00Z",
+      "value": 26.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 217,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:36:00Z",
+      "value": 27.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 218,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:37:00Z",
+      "value": 28.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 219,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:38:00Z",
+      "value": 29.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 220,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:39:00Z",
+      "value": 20.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 221,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:40:00Z",
+      "value": 21.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 222,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:41:00Z",
+      "value": 22.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 223,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:42:00Z",
+      "value": 23.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 224,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:43:00Z",
+      "value": 24.22
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 225,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:44:00Z",
+      "value": 25.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 226,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:45:00Z",
+      "value": 26.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 227,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:46:00Z",
+      "value": 27.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 228,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:47:00Z",
+      "value": 28.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 229,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:48:00Z",
+      "value": 29.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 230,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:49:00Z",
+      "value": 20.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 231,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T03:50:00Z",
+      "value": 21.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 232,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T03:51:00Z",
+      "value": 22.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 233,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T03:52:00Z",
+      "value": 23.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 234,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T03:53:00Z",
+      "value": 24.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 235,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T03:54:00Z",
+      "value": 25.23
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 236,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T03:55:00Z",
+      "value": 26.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 237,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T03:56:00Z",
+      "value": 27.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 238,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T03:57:00Z",
+      "value": 28.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 239,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T03:58:00Z",
+      "value": 29.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 240,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T03:59:00Z",
+      "value": 20.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 241,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:00:00Z",
+      "value": 21.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 242,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:01:00Z",
+      "value": 22.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 243,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:02:00Z",
+      "value": 23.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 244,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:03:00Z",
+      "value": 24.24
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 245,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:04:00Z",
+      "value": 25.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 246,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:05:00Z",
+      "value": 26.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 247,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:06:00Z",
+      "value": 27.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 248,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:07:00Z",
+      "value": 28.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 249,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:08:00Z",
+      "value": 29.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 250,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:09:00Z",
+      "value": 20.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 251,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:10:00Z",
+      "value": 21.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 252,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:11:00Z",
+      "value": 22.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 253,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:12:00Z",
+      "value": 23.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 254,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:13:00Z",
+      "value": 24.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 255,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:14:00Z",
+      "value": 25.25
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 256,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:15:00Z",
+      "value": 26.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 257,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:16:00Z",
+      "value": 27.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 258,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:17:00Z",
+      "value": 28.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 259,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:18:00Z",
+      "value": 29.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 260,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:19:00Z",
+      "value": 20.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 261,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:20:00Z",
+      "value": 21.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 262,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:21:00Z",
+      "value": 22.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 263,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:22:00Z",
+      "value": 23.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 264,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:23:00Z",
+      "value": 24.26
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 265,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:24:00Z",
+      "value": 25.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 266,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:25:00Z",
+      "value": 26.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 267,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:26:00Z",
+      "value": 27.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 268,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:27:00Z",
+      "value": 28.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 269,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:28:00Z",
+      "value": 29.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 270,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:29:00Z",
+      "value": 20.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 271,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:30:00Z",
+      "value": 21.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 272,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:31:00Z",
+      "value": 22.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 273,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:32:00Z",
+      "value": 23.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 274,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:33:00Z",
+      "value": 24.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 275,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:34:00Z",
+      "value": 25.27
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 276,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:35:00Z",
+      "value": 26.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 277,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:36:00Z",
+      "value": 27.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 278,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:37:00Z",
+      "value": 28.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 279,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:38:00Z",
+      "value": 29.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 280,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:39:00Z",
+      "value": 20.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 281,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:40:00Z",
+      "value": 21.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 282,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:41:00Z",
+      "value": 22.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 283,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:42:00Z",
+      "value": 23.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 284,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:43:00Z",
+      "value": 24.28
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 285,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:44:00Z",
+      "value": 25.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 286,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:45:00Z",
+      "value": 26.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 287,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:46:00Z",
+      "value": 27.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 288,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:47:00Z",
+      "value": 28.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 289,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:48:00Z",
+      "value": 29.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 290,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:49:00Z",
+      "value": 20.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 291,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T04:50:00Z",
+      "value": 21.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 292,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T04:51:00Z",
+      "value": 22.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 293,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T04:52:00Z",
+      "value": 23.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 294,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T04:53:00Z",
+      "value": 24.29
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 295,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T04:54:00Z",
+      "value": 25.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 296,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T04:55:00Z",
+      "value": 26.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 297,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T04:56:00Z",
+      "value": 27.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 298,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T04:57:00Z",
+      "value": 28.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 299,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T04:58:00Z",
+      "value": 29.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 300,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T04:59:00Z",
+      "value": 20.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 301,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:00:00Z",
+      "value": 21.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 302,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:01:00Z",
+      "value": 22.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 303,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:02:00Z",
+      "value": 23.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 304,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:03:00Z",
+      "value": 24.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 305,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:04:00Z",
+      "value": 25.3
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 306,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:05:00Z",
+      "value": 26.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 307,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:06:00Z",
+      "value": 27.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 308,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:07:00Z",
+      "value": 28.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 309,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:08:00Z",
+      "value": 29.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 310,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:09:00Z",
+      "value": 20.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 311,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:10:00Z",
+      "value": 21.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 312,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:11:00Z",
+      "value": 22.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 313,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:12:00Z",
+      "value": 23.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 314,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:13:00Z",
+      "value": 24.31
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 315,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:14:00Z",
+      "value": 25.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 316,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:15:00Z",
+      "value": 26.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 317,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:16:00Z",
+      "value": 27.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 318,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:17:00Z",
+      "value": 28.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 319,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:18:00Z",
+      "value": 29.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 320,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:19:00Z",
+      "value": 20.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 321,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:20:00Z",
+      "value": 21.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 322,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:21:00Z",
+      "value": 22.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 323,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:22:00Z",
+      "value": 23.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 324,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:23:00Z",
+      "value": 24.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 325,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:24:00Z",
+      "value": 25.32
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 326,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:25:00Z",
+      "value": 26.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 327,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:26:00Z",
+      "value": 27.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 328,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:27:00Z",
+      "value": 28.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 329,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:28:00Z",
+      "value": 29.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 330,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:29:00Z",
+      "value": 20.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 331,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:30:00Z",
+      "value": 21.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 332,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:31:00Z",
+      "value": 22.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 333,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:32:00Z",
+      "value": 23.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 334,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:33:00Z",
+      "value": 24.33
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 335,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:34:00Z",
+      "value": 25.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 336,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:35:00Z",
+      "value": 26.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 337,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:36:00Z",
+      "value": 27.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 338,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:37:00Z",
+      "value": 28.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 339,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:38:00Z",
+      "value": 29.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 340,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:39:00Z",
+      "value": 20.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 341,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:40:00Z",
+      "value": 21.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 342,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:41:00Z",
+      "value": 22.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 343,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:42:00Z",
+      "value": 23.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 344,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:43:00Z",
+      "value": 24.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 345,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:44:00Z",
+      "value": 25.34
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 346,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:45:00Z",
+      "value": 26.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 347,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:46:00Z",
+      "value": 27.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 348,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:47:00Z",
+      "value": 28.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 349,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:48:00Z",
+      "value": 29.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 350,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:49:00Z",
+      "value": 20.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 351,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T05:50:00Z",
+      "value": 21.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 352,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T05:51:00Z",
+      "value": 22.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 353,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T05:52:00Z",
+      "value": 23.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 354,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T05:53:00Z",
+      "value": 24.35
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 355,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T05:54:00Z",
+      "value": 25.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 356,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T05:55:00Z",
+      "value": 26.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 357,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T05:56:00Z",
+      "value": 27.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 358,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T05:57:00Z",
+      "value": 28.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 359,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T05:58:00Z",
+      "value": 29.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 360,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T05:59:00Z",
+      "value": 20.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 361,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:00:00Z",
+      "value": 21.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 362,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:01:00Z",
+      "value": 22.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 363,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:02:00Z",
+      "value": 23.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 364,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:03:00Z",
+      "value": 24.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 365,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:04:00Z",
+      "value": 25.36
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 366,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:05:00Z",
+      "value": 26.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 367,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:06:00Z",
+      "value": 27.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 368,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:07:00Z",
+      "value": 28.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 369,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:08:00Z",
+      "value": 29.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 370,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:09:00Z",
+      "value": 20.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 371,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:10:00Z",
+      "value": 21.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 372,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:11:00Z",
+      "value": 22.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 373,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:12:00Z",
+      "value": 23.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 374,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:13:00Z",
+      "value": 24.37
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 375,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:14:00Z",
+      "value": 25.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 376,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:15:00Z",
+      "value": 26.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 377,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:16:00Z",
+      "value": 27.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 378,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:17:00Z",
+      "value": 28.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 379,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:18:00Z",
+      "value": 29.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 380,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:19:00Z",
+      "value": 20.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 381,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:20:00Z",
+      "value": 21.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 382,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:21:00Z",
+      "value": 22.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 383,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:22:00Z",
+      "value": 23.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 384,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:23:00Z",
+      "value": 24.38
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 385,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:24:00Z",
+      "value": 25.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 386,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:25:00Z",
+      "value": 26.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 387,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:26:00Z",
+      "value": 27.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 388,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:27:00Z",
+      "value": 28.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 389,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:28:00Z",
+      "value": 29.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 390,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:29:00Z",
+      "value": 20.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 391,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:30:00Z",
+      "value": 21.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 392,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:31:00Z",
+      "value": 22.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 393,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:32:00Z",
+      "value": 23.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 394,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:33:00Z",
+      "value": 24.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 395,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:34:00Z",
+      "value": 25.39
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 396,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:35:00Z",
+      "value": 26.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 397,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:36:00Z",
+      "value": 27.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 398,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:37:00Z",
+      "value": 28.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 399,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:38:00Z",
+      "value": 29.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 400,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:39:00Z",
+      "value": 20.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 401,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:40:00Z",
+      "value": 21.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 402,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:41:00Z",
+      "value": 22.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 403,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:42:00Z",
+      "value": 23.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 404,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:43:00Z",
+      "value": 24.4
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 405,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:44:00Z",
+      "value": 25.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 406,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:45:00Z",
+      "value": 26.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 407,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:46:00Z",
+      "value": 27.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 408,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:47:00Z",
+      "value": 28.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 409,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:48:00Z",
+      "value": 29.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 410,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:49:00Z",
+      "value": 20.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 411,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T06:50:00Z",
+      "value": 21.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 412,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T06:51:00Z",
+      "value": 22.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 413,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T06:52:00Z",
+      "value": 23.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 414,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T06:53:00Z",
+      "value": 24.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 415,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T06:54:00Z",
+      "value": 25.41
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 416,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T06:55:00Z",
+      "value": 26.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 417,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T06:56:00Z",
+      "value": 27.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 418,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T06:57:00Z",
+      "value": 28.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 419,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T06:58:00Z",
+      "value": 29.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 420,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T06:59:00Z",
+      "value": 20.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 421,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:00:00Z",
+      "value": 21.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 422,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:01:00Z",
+      "value": 22.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 423,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:02:00Z",
+      "value": 23.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 424,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:03:00Z",
+      "value": 24.42
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 425,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:04:00Z",
+      "value": 25.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 426,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:05:00Z",
+      "value": 26.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 427,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:06:00Z",
+      "value": 27.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 428,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:07:00Z",
+      "value": 28.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 429,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:08:00Z",
+      "value": 29.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 430,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:09:00Z",
+      "value": 20.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 431,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:10:00Z",
+      "value": 21.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 432,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:11:00Z",
+      "value": 22.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 433,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:12:00Z",
+      "value": 23.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 434,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:13:00Z",
+      "value": 24.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 435,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:14:00Z",
+      "value": 25.43
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 436,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:15:00Z",
+      "value": 26.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 437,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:16:00Z",
+      "value": 27.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 438,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:17:00Z",
+      "value": 28.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 439,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:18:00Z",
+      "value": 29.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 440,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:19:00Z",
+      "value": 20.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 441,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:20:00Z",
+      "value": 21.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 442,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:21:00Z",
+      "value": 22.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 443,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:22:00Z",
+      "value": 23.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 444,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:23:00Z",
+      "value": 24.44
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 445,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:24:00Z",
+      "value": 25.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 446,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:25:00Z",
+      "value": 26.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 447,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:26:00Z",
+      "value": 27.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 448,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:27:00Z",
+      "value": 28.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 449,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:28:00Z",
+      "value": 29.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 450,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:29:00Z",
+      "value": 20.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 451,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:30:00Z",
+      "value": 21.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 452,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:31:00Z",
+      "value": 22.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 453,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:32:00Z",
+      "value": 23.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 454,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:33:00Z",
+      "value": 24.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 455,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:34:00Z",
+      "value": 25.45
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 456,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:35:00Z",
+      "value": 26.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 457,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:36:00Z",
+      "value": 27.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 458,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:37:00Z",
+      "value": 28.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 459,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:38:00Z",
+      "value": 29.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 460,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:39:00Z",
+      "value": 20.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 461,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:40:00Z",
+      "value": 21.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 462,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:41:00Z",
+      "value": 22.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 463,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:42:00Z",
+      "value": 23.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 464,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:43:00Z",
+      "value": 24.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 465,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:44:00Z",
+      "value": 25.46
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 466,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:45:00Z",
+      "value": 26.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 467,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:46:00Z",
+      "value": 27.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 468,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:47:00Z",
+      "value": 28.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 469,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:48:00Z",
+      "value": 29.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 470,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:49:00Z",
+      "value": 20.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 471,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T07:50:00Z",
+      "value": 21.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 472,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T07:51:00Z",
+      "value": 22.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 473,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T07:52:00Z",
+      "value": 23.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 474,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T07:53:00Z",
+      "value": 24.47
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 475,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T07:54:00Z",
+      "value": 25.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 476,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T07:55:00Z",
+      "value": 26.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 477,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T07:56:00Z",
+      "value": 27.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 478,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T07:57:00Z",
+      "value": 28.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 479,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T07:58:00Z",
+      "value": 29.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 480,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T07:59:00Z",
+      "value": 20.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 481,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:00:00Z",
+      "value": 21.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 482,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:01:00Z",
+      "value": 22.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 483,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:02:00Z",
+      "value": 23.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 484,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:03:00Z",
+      "value": 24.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 485,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:04:00Z",
+      "value": 25.48
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 486,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:05:00Z",
+      "value": 26.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 487,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:06:00Z",
+      "value": 27.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 488,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:07:00Z",
+      "value": 28.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 489,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:08:00Z",
+      "value": 29.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 490,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:09:00Z",
+      "value": 20.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 491,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:10:00Z",
+      "value": 21.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 492,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:11:00Z",
+      "value": 22.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 493,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:12:00Z",
+      "value": 23.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 494,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:13:00Z",
+      "value": 24.49
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 495,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:14:00Z",
+      "value": 25.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 496,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:15:00Z",
+      "value": 26.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 497,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:16:00Z",
+      "value": 27.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 498,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:17:00Z",
+      "value": 28.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 499,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:18:00Z",
+      "value": 29.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 500,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:19:00Z",
+      "value": 20.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 501,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:20:00Z",
+      "value": 21.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 502,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:21:00Z",
+      "value": 22.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 503,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:22:00Z",
+      "value": 23.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 504,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:23:00Z",
+      "value": 24.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 505,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:24:00Z",
+      "value": 25.5
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 506,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:25:00Z",
+      "value": 26.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 507,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:26:00Z",
+      "value": 27.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 508,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:27:00Z",
+      "value": 28.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 509,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:28:00Z",
+      "value": 29.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 510,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:29:00Z",
+      "value": 20.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 511,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:30:00Z",
+      "value": 21.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 512,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:31:00Z",
+      "value": 22.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 513,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:32:00Z",
+      "value": 23.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 514,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:33:00Z",
+      "value": 24.51
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 515,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:34:00Z",
+      "value": 25.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 516,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:35:00Z",
+      "value": 26.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 517,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:36:00Z",
+      "value": 27.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 518,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:37:00Z",
+      "value": 28.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 519,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:38:00Z",
+      "value": 29.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 520,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:39:00Z",
+      "value": 20.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 521,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:40:00Z",
+      "value": 21.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 522,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:41:00Z",
+      "value": 22.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 523,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:42:00Z",
+      "value": 23.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 524,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:43:00Z",
+      "value": 24.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 525,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:44:00Z",
+      "value": 25.52
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 526,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:45:00Z",
+      "value": 26.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 527,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:46:00Z",
+      "value": 27.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 528,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:47:00Z",
+      "value": 28.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 529,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:48:00Z",
+      "value": 29.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 530,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:49:00Z",
+      "value": 20.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 531,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T08:50:00Z",
+      "value": 21.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 532,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T08:51:00Z",
+      "value": 22.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 533,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T08:52:00Z",
+      "value": 23.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 534,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T08:53:00Z",
+      "value": 24.53
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 535,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T08:54:00Z",
+      "value": 25.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 536,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T08:55:00Z",
+      "value": 26.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 537,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T08:56:00Z",
+      "value": 27.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 538,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T08:57:00Z",
+      "value": 28.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 539,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T08:58:00Z",
+      "value": 29.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 540,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T08:59:00Z",
+      "value": 20.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 541,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:00:00Z",
+      "value": 21.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 542,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:01:00Z",
+      "value": 22.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 543,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:02:00Z",
+      "value": 23.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 544,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:03:00Z",
+      "value": 24.54
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 545,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:04:00Z",
+      "value": 25.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 546,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:05:00Z",
+      "value": 26.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 547,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:06:00Z",
+      "value": 27.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 548,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:07:00Z",
+      "value": 28.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 549,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:08:00Z",
+      "value": 29.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 550,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:09:00Z",
+      "value": 20.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 551,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:10:00Z",
+      "value": 21.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 552,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:11:00Z",
+      "value": 22.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 553,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:12:00Z",
+      "value": 23.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 554,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:13:00Z",
+      "value": 24.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 555,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:14:00Z",
+      "value": 25.55
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 556,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:15:00Z",
+      "value": 26.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 557,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:16:00Z",
+      "value": 27.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 558,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:17:00Z",
+      "value": 28.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 559,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:18:00Z",
+      "value": 29.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 560,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:19:00Z",
+      "value": 20.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 561,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:20:00Z",
+      "value": 21.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 562,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:21:00Z",
+      "value": 22.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 563,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:22:00Z",
+      "value": 23.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 564,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:23:00Z",
+      "value": 24.56
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 565,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:24:00Z",
+      "value": 25.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 566,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:25:00Z",
+      "value": 26.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 567,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:26:00Z",
+      "value": 27.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 568,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:27:00Z",
+      "value": 28.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 569,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:28:00Z",
+      "value": 29.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 570,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:29:00Z",
+      "value": 20.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 571,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:30:00Z",
+      "value": 21.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 572,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:31:00Z",
+      "value": 22.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 573,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:32:00Z",
+      "value": 23.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 574,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:33:00Z",
+      "value": 24.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 575,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:34:00Z",
+      "value": 25.57
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 576,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:35:00Z",
+      "value": 26.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 577,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:36:00Z",
+      "value": 27.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 578,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:37:00Z",
+      "value": 28.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 579,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:38:00Z",
+      "value": 29.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 580,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:39:00Z",
+      "value": 20.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 581,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:40:00Z",
+      "value": 21.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 582,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:41:00Z",
+      "value": 22.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 583,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:42:00Z",
+      "value": 23.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 584,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:43:00Z",
+      "value": 24.58
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 585,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:44:00Z",
+      "value": 25.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 586,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:45:00Z",
+      "value": 26.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 587,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:46:00Z",
+      "value": 27.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 588,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:47:00Z",
+      "value": 28.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 589,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:48:00Z",
+      "value": 29.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 590,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:49:00Z",
+      "value": 20.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 591,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T09:50:00Z",
+      "value": 21.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 592,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T09:51:00Z",
+      "value": 22.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 593,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T09:52:00Z",
+      "value": 23.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 594,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T09:53:00Z",
+      "value": 24.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 595,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T09:54:00Z",
+      "value": 25.59
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 596,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T09:55:00Z",
+      "value": 26.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 597,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T09:56:00Z",
+      "value": 27.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 598,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T09:57:00Z",
+      "value": 28.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 599,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T09:58:00Z",
+      "value": 29.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 600,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T09:59:00Z",
+      "value": 20.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 601,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:00:00Z",
+      "value": 21.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 602,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:01:00Z",
+      "value": 22.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 603,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:02:00Z",
+      "value": 23.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 604,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:03:00Z",
+      "value": 24.6
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 605,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:04:00Z",
+      "value": 25.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 606,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:05:00Z",
+      "value": 26.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 607,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:06:00Z",
+      "value": 27.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 608,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:07:00Z",
+      "value": 28.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 609,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:08:00Z",
+      "value": 29.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 610,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:09:00Z",
+      "value": 20.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 611,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:10:00Z",
+      "value": 21.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 612,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:11:00Z",
+      "value": 22.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 613,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:12:00Z",
+      "value": 23.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 614,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:13:00Z",
+      "value": 24.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 615,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:14:00Z",
+      "value": 25.61
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 616,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:15:00Z",
+      "value": 26.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 617,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:16:00Z",
+      "value": 27.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 618,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:17:00Z",
+      "value": 28.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 619,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:18:00Z",
+      "value": 29.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 620,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:19:00Z",
+      "value": 20.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 621,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:20:00Z",
+      "value": 21.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 622,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:21:00Z",
+      "value": 22.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 623,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:22:00Z",
+      "value": 23.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 624,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:23:00Z",
+      "value": 24.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 625,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:24:00Z",
+      "value": 25.62
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 626,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:25:00Z",
+      "value": 26.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 627,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:26:00Z",
+      "value": 27.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 628,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:27:00Z",
+      "value": 28.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 629,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:28:00Z",
+      "value": 29.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 630,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:29:00Z",
+      "value": 20.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 631,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:30:00Z",
+      "value": 21.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 632,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:31:00Z",
+      "value": 22.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 633,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:32:00Z",
+      "value": 23.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 634,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:33:00Z",
+      "value": 24.63
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 635,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:34:00Z",
+      "value": 25.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 636,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:35:00Z",
+      "value": 26.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 637,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:36:00Z",
+      "value": 27.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 638,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:37:00Z",
+      "value": 28.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 639,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:38:00Z",
+      "value": 29.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 640,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:39:00Z",
+      "value": 20.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 641,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:40:00Z",
+      "value": 21.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 642,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:41:00Z",
+      "value": 22.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 643,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:42:00Z",
+      "value": 23.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 644,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:43:00Z",
+      "value": 24.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 645,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:44:00Z",
+      "value": 25.64
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 646,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:45:00Z",
+      "value": 26.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 647,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:46:00Z",
+      "value": 27.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 648,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:47:00Z",
+      "value": 28.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 649,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:48:00Z",
+      "value": 29.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 650,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:49:00Z",
+      "value": 20.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 651,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T10:50:00Z",
+      "value": 21.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 652,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T10:51:00Z",
+      "value": 22.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 653,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T10:52:00Z",
+      "value": 23.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 654,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T10:53:00Z",
+      "value": 24.65
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 655,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T10:54:00Z",
+      "value": 25.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 656,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T10:55:00Z",
+      "value": 26.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 657,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T10:56:00Z",
+      "value": 27.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 658,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T10:57:00Z",
+      "value": 28.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 659,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T10:58:00Z",
+      "value": 29.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 660,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T10:59:00Z",
+      "value": 20.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 661,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:00:00Z",
+      "value": 21.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 662,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:01:00Z",
+      "value": 22.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 663,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:02:00Z",
+      "value": 23.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 664,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:03:00Z",
+      "value": 24.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 665,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:04:00Z",
+      "value": 25.66
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 666,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:05:00Z",
+      "value": 26.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 667,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:06:00Z",
+      "value": 27.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 668,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:07:00Z",
+      "value": 28.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 669,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:08:00Z",
+      "value": 29.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 670,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:09:00Z",
+      "value": 20.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 671,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:10:00Z",
+      "value": 21.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 672,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:11:00Z",
+      "value": 22.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 673,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:12:00Z",
+      "value": 23.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 674,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:13:00Z",
+      "value": 24.67
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 675,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:14:00Z",
+      "value": 25.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 676,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:15:00Z",
+      "value": 26.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 677,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:16:00Z",
+      "value": 27.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 678,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:17:00Z",
+      "value": 28.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 679,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:18:00Z",
+      "value": 29.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 680,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:19:00Z",
+      "value": 20.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 681,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:20:00Z",
+      "value": 21.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 682,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:21:00Z",
+      "value": 22.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 683,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:22:00Z",
+      "value": 23.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 684,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:23:00Z",
+      "value": 24.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 685,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:24:00Z",
+      "value": 25.68
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 686,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:25:00Z",
+      "value": 26.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 687,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:26:00Z",
+      "value": 27.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 688,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:27:00Z",
+      "value": 28.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 689,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:28:00Z",
+      "value": 29.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 690,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:29:00Z",
+      "value": 20.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 691,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:30:00Z",
+      "value": 21.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 692,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:31:00Z",
+      "value": 22.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 693,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:32:00Z",
+      "value": 23.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 694,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:33:00Z",
+      "value": 24.69
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 695,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:34:00Z",
+      "value": 25.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 696,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:35:00Z",
+      "value": 26.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 697,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:36:00Z",
+      "value": 27.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 698,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:37:00Z",
+      "value": 28.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 699,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:38:00Z",
+      "value": 29.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 700,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:39:00Z",
+      "value": 20.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 701,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:40:00Z",
+      "value": 21.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 702,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:41:00Z",
+      "value": 22.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 703,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:42:00Z",
+      "value": 23.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 704,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:43:00Z",
+      "value": 24.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 705,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:44:00Z",
+      "value": 25.7
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 706,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:45:00Z",
+      "value": 26.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 707,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:46:00Z",
+      "value": 27.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 708,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:47:00Z",
+      "value": 28.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 709,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:48:00Z",
+      "value": 29.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 710,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:49:00Z",
+      "value": 20.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 711,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T11:50:00Z",
+      "value": 21.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 712,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T11:51:00Z",
+      "value": 22.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 713,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T11:52:00Z",
+      "value": 23.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 714,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T11:53:00Z",
+      "value": 24.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 715,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T11:54:00Z",
+      "value": 25.71
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 716,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T11:55:00Z",
+      "value": 26.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 717,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T11:56:00Z",
+      "value": 27.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 718,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T11:57:00Z",
+      "value": 28.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 719,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T11:58:00Z",
+      "value": 29.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 720,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T11:59:00Z",
+      "value": 20.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 721,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:00:00Z",
+      "value": 21.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 722,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:01:00Z",
+      "value": 22.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 723,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:02:00Z",
+      "value": 23.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 724,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:03:00Z",
+      "value": 24.72
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 725,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:04:00Z",
+      "value": 25.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 726,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:05:00Z",
+      "value": 26.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 727,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:06:00Z",
+      "value": 27.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 728,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:07:00Z",
+      "value": 28.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 729,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:08:00Z",
+      "value": 29.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 730,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:09:00Z",
+      "value": 20.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 731,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:10:00Z",
+      "value": 21.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 732,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:11:00Z",
+      "value": 22.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 733,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:12:00Z",
+      "value": 23.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 734,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:13:00Z",
+      "value": 24.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 735,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:14:00Z",
+      "value": 25.73
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 736,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:15:00Z",
+      "value": 26.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 737,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:16:00Z",
+      "value": 27.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 738,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:17:00Z",
+      "value": 28.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 739,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:18:00Z",
+      "value": 29.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 740,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:19:00Z",
+      "value": 20.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 741,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:20:00Z",
+      "value": 21.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 742,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:21:00Z",
+      "value": 22.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 743,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:22:00Z",
+      "value": 23.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 744,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:23:00Z",
+      "value": 24.74
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 745,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:24:00Z",
+      "value": 25.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 746,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:25:00Z",
+      "value": 26.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 747,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:26:00Z",
+      "value": 27.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 748,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:27:00Z",
+      "value": 28.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 749,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:28:00Z",
+      "value": 29.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 750,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:29:00Z",
+      "value": 20.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 751,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:30:00Z",
+      "value": 21.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 752,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:31:00Z",
+      "value": 22.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 753,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:32:00Z",
+      "value": 23.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 754,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:33:00Z",
+      "value": 24.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 755,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:34:00Z",
+      "value": 25.75
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 756,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:35:00Z",
+      "value": 26.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 757,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:36:00Z",
+      "value": 27.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 758,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:37:00Z",
+      "value": 28.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 759,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:38:00Z",
+      "value": 29.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 760,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:39:00Z",
+      "value": 20.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 761,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:40:00Z",
+      "value": 21.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 762,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:41:00Z",
+      "value": 22.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 763,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:42:00Z",
+      "value": 23.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 764,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:43:00Z",
+      "value": 24.76
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 765,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:44:00Z",
+      "value": 25.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 766,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:45:00Z",
+      "value": 26.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 767,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:46:00Z",
+      "value": 27.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 768,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:47:00Z",
+      "value": 28.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 769,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:48:00Z",
+      "value": 29.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 770,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:49:00Z",
+      "value": 20.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 771,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T12:50:00Z",
+      "value": 21.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 772,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T12:51:00Z",
+      "value": 22.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 773,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T12:52:00Z",
+      "value": 23.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 774,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T12:53:00Z",
+      "value": 24.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 775,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T12:54:00Z",
+      "value": 25.77
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 776,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T12:55:00Z",
+      "value": 26.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 777,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T12:56:00Z",
+      "value": 27.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 778,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T12:57:00Z",
+      "value": 28.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 779,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T12:58:00Z",
+      "value": 29.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 780,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T12:59:00Z",
+      "value": 20.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 781,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:00:00Z",
+      "value": 21.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 782,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:01:00Z",
+      "value": 22.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 783,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:02:00Z",
+      "value": 23.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 784,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:03:00Z",
+      "value": 24.78
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 785,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:04:00Z",
+      "value": 25.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 786,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:05:00Z",
+      "value": 26.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 787,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:06:00Z",
+      "value": 27.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 788,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:07:00Z",
+      "value": 28.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 789,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:08:00Z",
+      "value": 29.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 790,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:09:00Z",
+      "value": 20.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 791,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:10:00Z",
+      "value": 21.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 792,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:11:00Z",
+      "value": 22.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 793,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:12:00Z",
+      "value": 23.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 794,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:13:00Z",
+      "value": 24.79
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 795,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:14:00Z",
+      "value": 25.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 796,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:15:00Z",
+      "value": 26.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 797,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:16:00Z",
+      "value": 27.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 798,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:17:00Z",
+      "value": 28.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 799,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:18:00Z",
+      "value": 29.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 800,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:19:00Z",
+      "value": 20.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 801,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:20:00Z",
+      "value": 21.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 802,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:21:00Z",
+      "value": 22.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 803,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:22:00Z",
+      "value": 23.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 804,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:23:00Z",
+      "value": 24.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 805,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:24:00Z",
+      "value": 25.8
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 806,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:25:00Z",
+      "value": 26.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 807,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:26:00Z",
+      "value": 27.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 808,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:27:00Z",
+      "value": 28.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 809,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:28:00Z",
+      "value": 29.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 810,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:29:00Z",
+      "value": 20.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 811,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:30:00Z",
+      "value": 21.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 812,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:31:00Z",
+      "value": 22.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 813,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:32:00Z",
+      "value": 23.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 814,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:33:00Z",
+      "value": 24.81
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 815,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:34:00Z",
+      "value": 25.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 816,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:35:00Z",
+      "value": 26.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 817,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:36:00Z",
+      "value": 27.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 818,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:37:00Z",
+      "value": 28.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 819,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:38:00Z",
+      "value": 29.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 820,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:39:00Z",
+      "value": 20.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 821,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:40:00Z",
+      "value": 21.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 822,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:41:00Z",
+      "value": 22.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 823,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:42:00Z",
+      "value": 23.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 824,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:43:00Z",
+      "value": 24.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 825,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:44:00Z",
+      "value": 25.82
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 826,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:45:00Z",
+      "value": 26.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 827,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:46:00Z",
+      "value": 27.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 828,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:47:00Z",
+      "value": 28.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 829,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:48:00Z",
+      "value": 29.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 830,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:49:00Z",
+      "value": 20.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 831,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T13:50:00Z",
+      "value": 21.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 832,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T13:51:00Z",
+      "value": 22.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 833,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T13:52:00Z",
+      "value": 23.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 834,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T13:53:00Z",
+      "value": 24.83
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 835,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T13:54:00Z",
+      "value": 25.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 836,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T13:55:00Z",
+      "value": 26.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 837,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T13:56:00Z",
+      "value": 27.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 838,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T13:57:00Z",
+      "value": 28.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 839,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T13:58:00Z",
+      "value": 29.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 840,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T13:59:00Z",
+      "value": 20.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 841,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:00:00Z",
+      "value": 21.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 842,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:01:00Z",
+      "value": 22.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 843,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:02:00Z",
+      "value": 23.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 844,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:03:00Z",
+      "value": 24.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 845,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:04:00Z",
+      "value": 25.84
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 846,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:05:00Z",
+      "value": 26.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 847,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:06:00Z",
+      "value": 27.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 848,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:07:00Z",
+      "value": 28.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 849,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:08:00Z",
+      "value": 29.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 850,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:09:00Z",
+      "value": 20.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 851,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:10:00Z",
+      "value": 21.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 852,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:11:00Z",
+      "value": 22.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 853,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:12:00Z",
+      "value": 23.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 854,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:13:00Z",
+      "value": 24.85
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 855,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:14:00Z",
+      "value": 25.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 856,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:15:00Z",
+      "value": 26.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 857,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:16:00Z",
+      "value": 27.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 858,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:17:00Z",
+      "value": 28.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 859,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:18:00Z",
+      "value": 29.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 860,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:19:00Z",
+      "value": 20.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 861,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:20:00Z",
+      "value": 21.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 862,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:21:00Z",
+      "value": 22.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 863,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:22:00Z",
+      "value": 23.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 864,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:23:00Z",
+      "value": 24.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 865,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:24:00Z",
+      "value": 25.86
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 866,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:25:00Z",
+      "value": 26.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 867,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:26:00Z",
+      "value": 27.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 868,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:27:00Z",
+      "value": 28.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 869,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:28:00Z",
+      "value": 29.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 870,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:29:00Z",
+      "value": 20.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 871,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:30:00Z",
+      "value": 21.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 872,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:31:00Z",
+      "value": 22.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 873,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:32:00Z",
+      "value": 23.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 874,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:33:00Z",
+      "value": 24.87
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 875,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:34:00Z",
+      "value": 25.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 876,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:35:00Z",
+      "value": 26.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 877,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:36:00Z",
+      "value": 27.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 878,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:37:00Z",
+      "value": 28.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 879,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:38:00Z",
+      "value": 29.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 880,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:39:00Z",
+      "value": 20.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 881,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:40:00Z",
+      "value": 21.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 882,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:41:00Z",
+      "value": 22.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 883,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:42:00Z",
+      "value": 23.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 884,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:43:00Z",
+      "value": 24.88
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 885,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:44:00Z",
+      "value": 25.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 886,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:45:00Z",
+      "value": 26.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 887,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:46:00Z",
+      "value": 27.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 888,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:47:00Z",
+      "value": 28.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 889,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:48:00Z",
+      "value": 29.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 890,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:49:00Z",
+      "value": 20.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 891,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T14:50:00Z",
+      "value": 21.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 892,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T14:51:00Z",
+      "value": 22.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 893,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T14:52:00Z",
+      "value": 23.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 894,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T14:53:00Z",
+      "value": 24.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 895,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T14:54:00Z",
+      "value": 25.89
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 896,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T14:55:00Z",
+      "value": 26.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 897,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T14:56:00Z",
+      "value": 27.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 898,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T14:57:00Z",
+      "value": 28.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 899,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T14:58:00Z",
+      "value": 29.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 900,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T14:59:00Z",
+      "value": 20.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 901,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:00:00Z",
+      "value": 21.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 902,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:01:00Z",
+      "value": 22.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 903,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:02:00Z",
+      "value": 23.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 904,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:03:00Z",
+      "value": 24.9
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 905,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:04:00Z",
+      "value": 25.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 906,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:05:00Z",
+      "value": 26.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 907,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:06:00Z",
+      "value": 27.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 908,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:07:00Z",
+      "value": 28.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 909,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:08:00Z",
+      "value": 29.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 910,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:09:00Z",
+      "value": 20.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 911,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:10:00Z",
+      "value": 21.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 912,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:11:00Z",
+      "value": 22.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 913,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:12:00Z",
+      "value": 23.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 914,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:13:00Z",
+      "value": 24.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 915,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:14:00Z",
+      "value": 25.91
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 916,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:15:00Z",
+      "value": 26.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 917,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:16:00Z",
+      "value": 27.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 918,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:17:00Z",
+      "value": 28.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 919,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:18:00Z",
+      "value": 29.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 920,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:19:00Z",
+      "value": 20.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 921,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:20:00Z",
+      "value": 21.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 922,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:21:00Z",
+      "value": 22.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 923,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:22:00Z",
+      "value": 23.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 924,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:23:00Z",
+      "value": 24.92
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 925,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:24:00Z",
+      "value": 25.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 926,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:25:00Z",
+      "value": 26.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 927,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:26:00Z",
+      "value": 27.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 928,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:27:00Z",
+      "value": 28.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 929,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:28:00Z",
+      "value": 29.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 930,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:29:00Z",
+      "value": 20.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 931,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:30:00Z",
+      "value": 21.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 932,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:31:00Z",
+      "value": 22.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 933,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:32:00Z",
+      "value": 23.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 934,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:33:00Z",
+      "value": 24.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 935,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:34:00Z",
+      "value": 25.93
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 936,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:35:00Z",
+      "value": 26.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 937,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:36:00Z",
+      "value": 27.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 938,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:37:00Z",
+      "value": 28.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 939,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:38:00Z",
+      "value": 29.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 940,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:39:00Z",
+      "value": 20.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 941,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:40:00Z",
+      "value": 21.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 942,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:41:00Z",
+      "value": 22.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 943,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:42:00Z",
+      "value": 23.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 944,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:43:00Z",
+      "value": 24.94
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 945,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:44:00Z",
+      "value": 25.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 946,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:45:00Z",
+      "value": 26.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 947,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:46:00Z",
+      "value": 27.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 948,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:47:00Z",
+      "value": 28.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 949,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:48:00Z",
+      "value": 29.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 950,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:49:00Z",
+      "value": 20.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 951,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T15:50:00Z",
+      "value": 21.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 952,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T15:51:00Z",
+      "value": 22.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 953,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T15:52:00Z",
+      "value": 23.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 954,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T15:53:00Z",
+      "value": 24.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 955,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T15:54:00Z",
+      "value": 25.95
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 956,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T15:55:00Z",
+      "value": 26.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 957,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T15:56:00Z",
+      "value": 27.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 958,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T15:57:00Z",
+      "value": 28.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 959,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T15:58:00Z",
+      "value": 29.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 960,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T15:59:00Z",
+      "value": 20.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 961,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T16:00:00Z",
+      "value": 21.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 962,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T16:01:00Z",
+      "value": 22.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 963,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T16:02:00Z",
+      "value": 23.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 964,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T16:03:00Z",
+      "value": 24.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 965,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T16:04:00Z",
+      "value": 25.96
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 966,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T16:05:00Z",
+      "value": 26.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 967,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T16:06:00Z",
+      "value": 27.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 968,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T16:07:00Z",
+      "value": 28.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 969,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T16:08:00Z",
+      "value": 29.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 970,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T16:09:00Z",
+      "value": 20.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 971,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T16:10:00Z",
+      "value": 21.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 972,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T16:11:00Z",
+      "value": 22.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 973,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T16:12:00Z",
+      "value": 23.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 974,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T16:13:00Z",
+      "value": 24.97
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 975,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T16:14:00Z",
+      "value": 25.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 976,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T16:15:00Z",
+      "value": 26.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 977,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T16:16:00Z",
+      "value": 27.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 978,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T16:17:00Z",
+      "value": 28.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 979,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T16:18:00Z",
+      "value": 29.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 980,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T16:19:00Z",
+      "value": 20.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 981,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T16:20:00Z",
+      "value": 21.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 982,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T16:21:00Z",
+      "value": 22.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 983,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T16:22:00Z",
+      "value": 23.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 984,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T16:23:00Z",
+      "value": 24.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 985,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T16:24:00Z",
+      "value": 25.98
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 986,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T16:25:00Z",
+      "value": 26.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 987,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T16:26:00Z",
+      "value": 27.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 988,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T16:27:00Z",
+      "value": 28.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 989,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T16:28:00Z",
+      "value": 29.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 990,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T16:29:00Z",
+      "value": 20.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 991,
+    "fields": {
+      "sensor": 1,
+      "timestamp": "2025-01-01T16:30:00Z",
+      "value": 21.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 992,
+    "fields": {
+      "sensor": 2,
+      "timestamp": "2025-01-01T16:31:00Z",
+      "value": 22.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 993,
+    "fields": {
+      "sensor": 3,
+      "timestamp": "2025-01-01T16:32:00Z",
+      "value": 23.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 994,
+    "fields": {
+      "sensor": 4,
+      "timestamp": "2025-01-01T16:33:00Z",
+      "value": 24.99
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 995,
+    "fields": {
+      "sensor": 5,
+      "timestamp": "2025-01-01T16:34:00Z",
+      "value": 26.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 996,
+    "fields": {
+      "sensor": 6,
+      "timestamp": "2025-01-01T16:35:00Z",
+      "value": 27.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 997,
+    "fields": {
+      "sensor": 7,
+      "timestamp": "2025-01-01T16:36:00Z",
+      "value": 28.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 998,
+    "fields": {
+      "sensor": 8,
+      "timestamp": "2025-01-01T16:37:00Z",
+      "value": 29.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 999,
+    "fields": {
+      "sensor": 9,
+      "timestamp": "2025-01-01T16:38:00Z",
+      "value": 30.0
+    }
+  },
+  {
+    "model": "sensors.sensorreading",
+    "pk": 1000,
+    "fields": {
+      "sensor": 10,
+      "timestamp": "2025-01-01T16:39:00Z",
+      "value": 21.0
+    }
+  }
+]
