@@ -5,7 +5,7 @@ This is a Django-based RESTful API for reading sensors data.
 
 ## Features
 - CRUD actions for sensor reading via RestAPI.
-- Fetch sensor readings data from eternal api using background tasks.
+- Fetch sensor readings data from external api using background tasks.
 
 ### Prerequisites
 
