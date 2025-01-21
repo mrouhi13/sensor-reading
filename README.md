@@ -15,8 +15,8 @@ This is a Django-based RESTful API for reading sensors data.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/mrouhi13/sensor_reading.git
-    cd sensor_reading
+    git clone https://github.com/mrouhi13/sensor-reading.git
+    cd sensor-reading
     ```
 
 2. **Environment Variables**:
