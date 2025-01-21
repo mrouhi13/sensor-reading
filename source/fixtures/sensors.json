@@ -1,7 +1,7 @@
 [
-    {
+  {
     "model": "sensors.sensor",
-    "pk": 1,
+    "pk": "000e3896-9ecc-4e5c-8448-d5bec0a7e5e1",
     "fields": {
       "name": "Sensor 1",
       "location": "Location 1",
@@ -10,7 +10,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 2,
+    "pk": "67e25d81-7111-4238-8453-f23566b85a7a",
     "fields": {
       "name": "Sensor 2",
       "location": "Location 2",
@@ -19,7 +19,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 3,
+    "pk": "2d5ce815-3430-4c8b-bbfa-0762d977460a",
     "fields": {
       "name": "Sensor 3",
       "location": "Location 3",
@@ -28,7 +28,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 4,
+    "pk": "f421c3ed-e47f-408c-b78b-234d686c41a8",
     "fields": {
       "name": "Sensor 4",
       "location": "Location 4",
@@ -37,7 +37,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 5,
+    "pk": "1bf3ca85-07c1-4d83-88c9-a7766df1ca21",
     "fields": {
       "name": "Sensor 5",
       "location": "Location 5",
@@ -46,7 +46,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 6,
+    "pk": "d0570151-0828-4a8b-8fef-531af5e11a83",
     "fields": {
       "name": "Sensor 6",
       "location": "Location 6",
@@ -55,7 +55,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 7,
+    "pk": "8fb7d7c5-cedb-4fe7-ae7d-c6f88a9a7d14",
     "fields": {
       "name": "Sensor 7",
       "location": "Location 7",
@@ -64,7 +64,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 8,
+    "pk": "1501af42-a742-4679-a1ff-26766edf2d56",
     "fields": {
       "name": "Sensor 8",
       "location": "Location 8",
@@ -73,7 +73,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 9,
+    "pk": "958889d9-ffe5-4a54-8f0f-d1115aefb7ac",
     "fields": {
       "name": "Sensor 9",
       "location": "Location 9",
@@ -82,7 +82,7 @@
   },
   {
     "model": "sensors.sensor",
-    "pk": 10,
+    "pk": "f2751738-bcdd-4ab7-a744-19c4369e7078",
     "fields": {
       "name": "Sensor 10",
       "location": "Location 10",
