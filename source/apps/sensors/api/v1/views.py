@@ -4,7 +4,23 @@ from django.utils.decorators import method_decorator
 from django.views.decorators.cache import cache_page
 from rest_framework import viewsets
 
-from apps.sensors.api.v1.serializers import SensorReadingSerializer
+from apps.sensors.api.v1.serializers import SensorReadingSerializer, \
+    SensorSerializer
+
+
+class SensorViewSet(viewsets.ModelViewSet):
+    """
+    API endpoint that allows sensors to be viewed or edited.
+    """
+    serializer_class = SensorSerializer
+    queryset = serializer_class.Meta.model.objects.all()
+
+    @method_decorator(cache_page(settings.CACHE_TTL))
+    def dispatch(self, request, *args, **kwargs) -> HttpResponseBase:
+        """
+        Dispatch method for the view set that caches the response.
+        """
+        return super().dispatch(request, *args, **kwargs)
 
 
 class SensorReadingViewSet(viewsets.ModelViewSet):

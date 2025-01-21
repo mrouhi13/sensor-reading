@@ -7,6 +7,53 @@ from rest_framework.test import APITestCase
 from apps.sensors.models import Sensor, SensorReading
 
 
+class SensorTests(APITestCase):
+    def setUp(self):
+        """
+        Set up test data for the API endpoints.
+        """
+        self.sensor_1 = Sensor.objects.create(name='Test Sensor 1',
+                                              location='Test Location')
+        self.sensor_2 = Sensor.objects.create(name='Test Sensor 2',
+                                              location='Test Location')
+        self.sensor_3 = Sensor.objects.create(name='Test Sensor 3',
+                                              location='Test Location')
+
+        self.base_url = reverse('api:v1:sensors:sensors:sensor-list')
+
+    def test_list_sensors(self):
+        """
+        Test the list sensors endpoint.
+        """
+        response = self.client.get(self.base_url)
+        self.assertEqual(response.status_code, status.HTTP_200_OK)
+        self.assertEqual(len(response.data), 3)
+        self.assertEqual(response.data[0]['id'], str(self.sensor_1.id))
+
+    def test_create_sensor(self):
+        """
+        Test creating a new sensor.
+        """
+        data = {
+            'name': 'Test Sensor 4',
+            'location': 'Test Location',
+        }
+        response = self.client.post(self.base_url, data=data)
+        self.assertEqual(response.status_code, status.HTTP_201_CREATED)
+        self.assertEqual(response.data['name'], 'Test Sensor 4')
+
+    def test_create_sensor_reading_invalid_data(self):
+        """
+        Test creating a sensor reading with invalid data.
+        """
+        data = {
+            'timestamp': 'Test Sensor 4',
+            'location': 'Test Location',
+        }
+        response = self.client.post(self.base_url, data=data)
+        self.assertEqual(response.status_code, status.HTTP_400_BAD_REQUEST)
+
+
 class SensorReadingTests(APITestCase):
     def setUp(self):
         """
@@ -17,17 +64,17 @@ class SensorReadingTests(APITestCase):
         self.reading_1 = SensorReading.objects.create(
             sensor=self.sensor,
             timestamp=datetime.now() - timedelta(hours=1),
-            value=10.5
+            value=10.5,
         )
         self.reading_2 = SensorReading.objects.create(
             sensor=self.sensor,
             timestamp=datetime.now() - timedelta(hours=2),
-            value=20.5
+            value=20.5,
         )
         self.reading_3 = SensorReading.objects.create(
             sensor=self.sensor,
             timestamp=datetime.now() - timedelta(hours=3),
-            value=30.5
+            value=30.5,
         )
 
         self.base_url = reverse('api:v1:sensors:sensors:sensorreading-list')
@@ -59,7 +106,7 @@ class SensorReadingTests(APITestCase):
         data = {
             'sensor': self.sensor.id,
             'timestamp': timestamp,
-            'value': 15.5
+            'value': 15.5,
         }
         response = self.client.post(self.base_url, data=data)
         self.assertEqual(response.status_code, status.HTTP_201_CREATED)
@@ -73,7 +120,7 @@ class SensorReadingTests(APITestCase):
         data = {
             'sensor': self.sensor.id,
             'timestamp': 'invalid-timestamp',
-            'value': 'invalid-value'
+            'value': 'invalid-value',
         }
         response = self.client.post(self.base_url, data=data)
         self.assertEqual(response.status_code, status.HTTP_400_BAD_REQUEST)
