@@ -1,8 +1,16 @@
+from uuid import uuid4
+
 from django.db import models
 from django.utils.translation import gettext_lazy as _
 
 
 class Sensor(models.Model):
+    id = models.UUIDField(
+        verbose_name=_('ID'),
+        primary_key=True,
+        default=uuid4,
+        editable=False,
+    )
     name = models.CharField(
         verbose_name=_('Name'),
         max_length=255,
@@ -26,6 +34,12 @@ class Sensor(models.Model):
 
 
 class SensorReading(models.Model):
+    id = models.UUIDField(
+        verbose_name=_('ID'),
+        primary_key=True,
+        default=uuid4,
+        editable=False,
+    )
     sensor = models.ForeignKey(
         verbose_name=_('Sensor ID'),
         to='Sensor',
