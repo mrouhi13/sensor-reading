@@ -138,9 +138,6 @@ CORS_ALLOWED_ORIGINS = []
 
 CACHE_TTL = 300  # seconds
 
-EXTERNAL_API_URL = 'https://external-api.com/sensors'
-
-
 CELERY_BEAT_SCHEDULE = {
     'fetch_sensor_data': {
         'task': 'apps.sensors.fetch_sensor_data',
